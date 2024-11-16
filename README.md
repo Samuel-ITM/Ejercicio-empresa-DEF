@@ -1,12 +1,11 @@
 # Ejercicio-empresa-DEF
-#
+
 #
 Este es el repositorio para el ejercicio numero 2 del proyecto final 
 #
-#
-#Estudiantes
+Estudiantes
 
-Samuel Salazar;
-Andres Zapata;
-Valeria Rivera;
-Isabela Pineda:
+Samuel Salazar,
+Andres Zapata,
+Valeria Rivera,
+Isabela Pineda.
