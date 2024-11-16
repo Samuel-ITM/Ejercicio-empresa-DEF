@@ -9,7 +9,7 @@ import model.Suplier;
 import model.Transporter;
 
 public class view {
-
+//comentario de pueba para un commit
     private static ClientController objClientController = new ClientController();
     private static TransporterController objTransporterController = new TransporterController();
     private static SuplierController objSuplierController = new SuplierController();
